@@ -1,5 +1,5 @@
-# DA5401-2024
-DA5401 Data Analytics Lab (2024) -- Assignments and Solutions
+# DA5401
+DA5401 Data Analytics Lab -- Assignments and Solutions
 
 ## Course Objectives
 * Evaluating the results of Machine Learning modeling
@@ -17,9 +17,13 @@ DA5401 Data Analytics Lab (2024) -- Assignments and Solutions
 * Students are expected to use the remaining time in the slot to do their assignments or clarify their queries.
 * There will be at least ten weekly assignments spread across the semester.
 * Each assignment will be given ~10 days for completion and submission.
-* The end-semester exam will be a [Data Challenge competition](https://www.kaggle.com/competitions/da5401-2024-ml-challenge) + Viva.
+* The end-semester exam will be a Data Challenge competition + Viva.
 * 80% weightage to the assignments and 20% to the Data Challenge.
 
 ## References
 * Sarah Guido, Andreas Muller., [Introduction to Machine Learning through Python](https://duchesnay.github.io/pystatsml/), 2024
 * Gareth James et al., [Introduction to Statistical Learning](https://www.statlearning.com/), 2024
+
+## Archive
+* 2024 
+  * [Data Challenge competition](https://www.kaggle.com/competitions/da5401-2024-ml-challenge)
